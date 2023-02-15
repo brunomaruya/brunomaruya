@@ -56,8 +56,8 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=brunomaruya&show_icons=true&theme=dracula" style="vertical-align: top;" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaruya&layout=compact&theme=dracula" />
+    <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunomaruya&show_icons=true&theme=dracula" style="vertical-align: top;" />
+    <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunomaruya&layout=compact&theme=dracula" />
   </div>
 </div>
 
