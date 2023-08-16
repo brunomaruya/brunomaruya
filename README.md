@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="100%" height="10px" src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg">
+<!--
+ <p align="center">
+  <img width="100%" height="10%" objectFit="cover" src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg">
 </p>
+-->
 
 <!--GitHub Profile Genarator -->
 
